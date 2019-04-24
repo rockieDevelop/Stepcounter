@@ -1,0 +1,63 @@
+{
+  "_from": "cordova-plugin-health",
+  "_id": "cordova-plugin-health@1.1.0",
+  "_inBundle": false,
+  "_integrity": "sha512-iFsNd1JUkDoepxI9RwUL8/rST7nWsS3Y9tH8v5QLipEpbLwvTZjYSz9mkRii2lbNgDKPnTqgV24n1f+J4lYMng==",
+  "_location": "/cordova-plugin-health",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-plugin-health",
+    "name": "cordova-plugin-health",
+    "escapedName": "cordova-plugin-health",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-health/-/cordova-plugin-health-1.1.0.tgz",
+  "_shasum": "64b968d1038251df63ab619673c28a2e8f9ca4c0",
+  "_spec": "cordova-plugin-health",
+  "_where": "D:\\VSB\\Bakalarka\\accelerometer",
+  "author": {
+    "name": "Dario Salvi"
+  },
+  "bugs": {
+    "url": "https://github.com/dariosalvi78/cordova-plugin-health/issues"
+  },
+  "bundleDependencies": false,
+  "cordova_name": "Health",
+  "deprecated": false,
+  "description": "A plugin that abstracts fitness and health repositories like Apple HealthKit or Google Fit",
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=6.0.0"
+    }
+  ],
+  "homepage": "https://github.com/dariosalvi78/cordova-plugin-health",
+  "issue": "https://github.com/dariosalvi78/cordova-plugin-health/issues",
+  "keywords": [
+    "HealthKit",
+    "Google Fit",
+    "health",
+    "fitness",
+    "ecosystem:cordova"
+  ],
+  "license": "MIT",
+  "name": "cordova-plugin-health",
+  "platforms": [
+    "ios",
+    "android"
+  ],
+  "repo": "https://github.com/dariosalvi78/cordova-plugin-health.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dariosalvi78/cordova-plugin-health.git"
+  },
+  "version": "1.1.0"
+}

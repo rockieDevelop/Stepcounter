@@ -1,0 +1,43 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.example.myapp"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "com.example.myapp"
+    },
+    "cordova-plugin-pedometer": {
+      "PACKAGE_NAME": "com.example.myapp"
+    },
+    "cordova-plugin-health": {
+      "PACKAGE_NAME": "com.example.myapp"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "com.example.myapp"
+    },
+    "cordova-plugin-screen-orientation": {
+      "PACKAGE_NAME": "com.example.myapp"
+    },
+    "cordova-plugin-bluetoothle": {
+      "PACKAGE_NAME": "com.example.myapp"
+    },
+    "cordova-plugin-background-mode": {
+      "PACKAGE_NAME": "com.example.myapp"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.example.myapp"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.example.myapp"
+    }
+  }
+}
